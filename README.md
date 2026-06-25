@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ### File organisation
 
 To ensure the functions run properly, your data directory should be organized as follows:
-
+''' bash
 /home/lumin/Documents/Data
 ├── Algos_Python
 ├── Images_organoides
