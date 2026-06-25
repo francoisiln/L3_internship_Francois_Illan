@@ -161,3 +161,4 @@ To ensure the functions run properly, your data directory should be organized as
 
 Only the Run** that contains a case Images are interesting, we don't analyse the others. For all these runs, there is also a file called Run**.csv, parameters.txt adn evolution_temporelle_filtre.csv
 In the case Images, there are every frame in a .tiff
+You should put the file utils_analysis3.py next to the file utils_analysis2.py in the case Algos_Python.
