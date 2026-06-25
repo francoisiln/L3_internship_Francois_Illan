@@ -20,8 +20,9 @@ These functions are developed and tested using the following environment:
 
 To install all the required libraries, you may run this command in your terminal:
 
-```bash
 pip install -r requirements.txt
+
+### File organisation
 
 To ensure the functions run properly, your data directory should be organized as follows:
 
